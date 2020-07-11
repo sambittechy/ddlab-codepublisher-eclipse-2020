@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="ddlab.codepublisher.feature">
+      <category name="DDLAB Tornado CodePublisher"/>
+   </feature>
+   <category-def name="DDLAB Tornado CodePublisher" label="DDLAB Tornado CodePublisher">
+      <description>
+         An Artifact from Tornado Project by DDLAB Inc. CodePublisher is an Eclipse plugin to publish your code base to online collberative git sites like GitHub, GitLab or Bitbucket.
+      </description>
+   </category-def>
+</site>
