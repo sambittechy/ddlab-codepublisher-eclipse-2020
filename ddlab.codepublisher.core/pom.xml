@@ -37,6 +37,7 @@
 			<artifactId>httpclient</artifactId>
 			<version>4.5.4</version>
 		</dependency>
+		<!-- New version of jackson added for security -->
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-core</artifactId>
