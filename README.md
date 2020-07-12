@@ -1,6 +1,6 @@
 ![DDLAB](./images/A22.png) 
 
-Eclipse Plugin to pusblish your code in GitHub, GitLab or Bitbucket
+Eclipse Plugin to publish your code in GitHub, GitLab or Bitbucket
 ==========================================================================================
 
 Introduction
